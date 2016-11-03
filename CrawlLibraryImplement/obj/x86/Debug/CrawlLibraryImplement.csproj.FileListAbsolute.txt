@@ -1,0 +1,11 @@
+C:\Users\Dastagir\Documents\Visual Studio 2015\Projects\CrawlLibraryImplement\CrawlLibraryImplement\bin\x86\Debug\CrawlLibraryImplement.exe.config
+C:\Users\Dastagir\Documents\Visual Studio 2015\Projects\CrawlLibraryImplement\CrawlLibraryImplement\bin\x86\Debug\CrawlLibraryImplement.exe
+C:\Users\Dastagir\Documents\Visual Studio 2015\Projects\CrawlLibraryImplement\CrawlLibraryImplement\bin\x86\Debug\CrawlLibraryImplement.pdb
+C:\Users\Dastagir\Documents\Visual Studio 2015\Projects\CrawlLibraryImplement\CrawlLibraryImplement\bin\x86\Debug\CrawlingLibrary.dll
+C:\Users\Dastagir\Documents\Visual Studio 2015\Projects\CrawlLibraryImplement\CrawlLibraryImplement\bin\x86\Debug\CrawlingLibrary.pdb
+C:\Users\Dastagir\Documents\Visual Studio 2015\Projects\CrawlLibraryImplement\CrawlLibraryImplement\obj\x86\Debug\CrawlLibraryImplement.csprojResolveAssemblyReference.cache
+C:\Users\Dastagir\Documents\Visual Studio 2015\Projects\CrawlLibraryImplement\CrawlLibraryImplement\obj\x86\Debug\CrawlLibraryImplement.Form1.resources
+C:\Users\Dastagir\Documents\Visual Studio 2015\Projects\CrawlLibraryImplement\CrawlLibraryImplement\obj\x86\Debug\CrawlLibraryImplement.Properties.Resources.resources
+C:\Users\Dastagir\Documents\Visual Studio 2015\Projects\CrawlLibraryImplement\CrawlLibraryImplement\obj\x86\Debug\CrawlLibraryImplement.csproj.GenerateResource.Cache
+C:\Users\Dastagir\Documents\Visual Studio 2015\Projects\CrawlLibraryImplement\CrawlLibraryImplement\obj\x86\Debug\CrawlLibraryImplement.exe
+C:\Users\Dastagir\Documents\Visual Studio 2015\Projects\CrawlLibraryImplement\CrawlLibraryImplement\obj\x86\Debug\CrawlLibraryImplement.pdb
